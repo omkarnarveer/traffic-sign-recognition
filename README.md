@@ -20,10 +20,10 @@ cd traffic-sign-recognition
 ### 🔹 2. Create and Activate Virtual Environment (Optional but Recommended)
 python -m venv venv
 
-# Activate Virtual Environment:
-# Windows
+### Activate Virtual Environment:
+### Windows
 venv\Scripts\activate
-# Mac/Linux
+### Mac/Linux
 source venv/bin/activate
 ### 🔹 3. Install Dependencies
 pip install -r requirements.txt
@@ -55,7 +55,7 @@ traffic-sign-recognition/
 │── app.py                         # Flask backend for image upload & prediction
 │── requirements.txt                # Required dependencies
 │── README.md                      # Project documentation
-### ⚙️ Technologies Used
+## ⚙️ Technologies Used
 🔹Python 3.8+
 🔹Flask (Backend for handling uploads and predictions)
 🔹TensorFlow/Keras (Deep learning framework for CNN)
@@ -63,9 +63,9 @@ traffic-sign-recognition/
 🔹Bootstrap 5 (Responsive UI)
 🔹NumPy, Pandas, Scikit-learn (Data handling)
 
-### 🤝 Contributing
+## 🤝 Contributing
 Pull requests and contributions are welcome! Feel free to fork the repo and submit PRs.
 
-### ⚠️ License
+## ⚠️ License
 This project is open-source and free to use.
 
