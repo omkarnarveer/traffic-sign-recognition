@@ -41,20 +41,7 @@ Once the server is running, open your browser and visit:
 http://127.0.0.1:5000/
 Upload an image to get the predicted traffic sign name.
 
-📁 Project Structure
-traffic-sign-recognition/
-│── dataset/                      # Dataset folder (contains images and CSV)
-│── model/
-│   ├── train_model.py             # Training script for CNN
-│   ├── traffic_sign_model.h5      # Saved model file (Generated after training)
-│── static/
-│   ├── css/                       # CSS files for styling
-│   ├── uploads/                   # Uploaded images folder
-│── templates/
-│   ├── index.html                 # Frontend UI (Flask)
-│── app.py                         # Flask backend for image upload & prediction
-│── requirements.txt                # Required dependencies
-│── README.md                      # Project documentation
+
 ## ⚙️ Technologies Used
 🔹Python 3.8+
 🔹Flask (Backend for handling uploads and predictions)
